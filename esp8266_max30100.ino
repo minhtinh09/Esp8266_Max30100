@@ -23,9 +23,9 @@ void setup(){
     display.setTextSize(1);             
     display.setTextColor(WHITE);        
     display.setCursor(20,15);             
-    display.println("Welcom to");
+    display.println("Code by");
     display.setCursor(0,40);             
-    display.println("DTM E-SMART");
+    display.println("Cowsensei.2005");
     display.display();
     display.setTextSize(1);
     delay(2000); 
